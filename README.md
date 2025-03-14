@@ -4,8 +4,8 @@
  Passionate and innovative software developer with strong Java Full Stack skills,eager to deliver high-quality solutions and contribute fresh perspectives to a dynamic team. Committed to continuous learning and leveraging cutting-edge technologies in a forward-thinking organization. 
 
 ## 🛠️ Languages and Tools I Use
-- **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** Java, Spring Boot,Spring
+- **Frontend:** HTML, CSS, JavaScript, Angular
+- **Backend:** Java, Spring Boot,
 - **Database:** MySQL
 - **Version Control:** Git, GitHub
 
