@@ -17,8 +17,7 @@
 -Optimized Performance: Efficient handling of HTTP requests and responses improved application responsiveness and user experience.
 -User-Friendly Interface: Developed a dynamic, intuitive UI using JSP, HTML, and CSS for better user engagement.
 -Full-Stack Development Experience: Gained hands-on expertise in Java, Servlets, JDBC, and front-end technologies, showcasing a complete end-to-end application lifecycle.
--Enhanced Troubleshooting & Debugging Skills: Resolved real-time issues related to database connectivity, request handling, and user authentication, ensuring smooth application 
- functionality.
+-Enhanced Troubleshooting & Debugging Skills: Resolved real-time issues related to database connectivity, request handling, and user authentication, ensuring smooth application functionality.
 
 ## 🌱 Currently Learning
 - Microservices architecture
